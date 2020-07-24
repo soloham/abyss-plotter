@@ -1,4 +1,6 @@
 # abyss-plotter
+Have a quick look at the live version on netlify: https://abyss-plotter-soloham.netlify.app/#/ 
+
 This is a plotter vue.js application with sleek UI & great functionality with it's ease of use and nice documention, 
 it won't take long to fall in love with it.
 
