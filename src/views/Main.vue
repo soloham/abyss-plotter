@@ -35,6 +35,9 @@ pl 0,250 250,250 250,0 0,0 0,250`,
       commandsList: [],
     };
   },
+  mounted() {
+    this.commandsList = this.commands.split("\n");
+  },
 };
 </script>
 
