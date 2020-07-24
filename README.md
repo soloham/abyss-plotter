@@ -11,7 +11,7 @@ $ vue create plotter
 3. Now you can write commands in the textarea and click the button Plot to make svg figures.
 
 ## Run the project (Git Repository):
-1. Clone the repository
+1. Clone the repository:
 $ git clone git@github.com:SoloHam/abyss-plotter.git
 
 2. Follow the steps below to perform the desired operations to the app
